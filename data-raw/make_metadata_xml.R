@@ -21,7 +21,7 @@ datatable_metadata <-
                                           "Recaptured fish",
                                           "Released fish",
                                           "Released fish"), #TODO check this description
-                datatable_url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/edi-updates-11-24/data/", #TODO updates this path when merged
+                datatable_url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/edi-updates-9-25/data/", #TODO updates this path when merged
                                        c("lower_feather_catch.csv",
                                          "lower_feather_trap.csv",
                                          "lower_feather_recapture.csv",
@@ -70,15 +70,12 @@ custom_units <- data.frame(id = c("number of rotations", "NTU", "revolutions per
 
 
 unitList <- EML::set_unitList(custom_units)
-edi_number
 eml <- list(packageId = edi_number,
             system = "EDI",
             access = add_access(),
             dataset = dataset,
             additionalMetadata = list(metadata = list(unitList = unitList))
 )
-
-edi_number
 
 EML::write_eml(eml, paste0(edi_number, ".xml"))
 EML::eml_validate(paste0(edi_number, ".xml"))

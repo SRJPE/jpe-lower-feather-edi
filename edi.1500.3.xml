@@ -30,7 +30,7 @@
       <electronicMailAddress>anna.allison@wildlife.ca.gov</electronicMailAddress>
       <role>principal investigator</role>
     </associatedParty>
-    <pubDate>2024-11-19</pubDate>
+    <pubDate>2025-09-17</pubDate>
     <abstract>
       <para>
     CDFW issued Incidental Take Permit No. 2081-2019-006-00 (ITP) to the
@@ -115,7 +115,7 @@
             <calendarDate>2022-01-19</calendarDate>
           </beginDate>
           <endDate>
-            <calendarDate>2024-06-13</calendarDate>
+            <calendarDate>2025-06-02</calendarDate>
           </endDate>
         </rangeOfDates>
       </temporalCoverage>
@@ -246,8 +246,8 @@
       <entityDescription>Daily catch</entityDescription>
       <physical>
         <objectName>lower_feather_catch.csv</objectName>
-        <size unit="bytes">2854820</size>
-        <authentication method="MD5">6310cc5f4d9dc3728bae7ca2bcebb8ea</authentication>
+        <size unit="bytes">4270251</size>
+        <authentication method="MD5">250fdf4d590048815200058b653c6ea6</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -260,7 +260,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/edi-updates-11-24/data/lower_feather_catch.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/edi-updates-9-25/data/lower_feather_catch.csv</url>
           </online>
         </distribution>
       </physical>
@@ -447,7 +447,23 @@
               <dateTimeDomain>
                 <bounds>
                   <minimum exclusive="false">44580.521</minimum>
-                  <maximum exclusive="false">45456.0109</maximum>
+                  <maximum exclusive="false">45809.4068</maximum>
+                </bounds>
+              </dateTimeDomain>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>visitTime2</attributeName>
+          <attributeLabel>catch</attributeLabel>
+          <attributeDefinition>Date and time of day associated with the end of trap visit. Definition varies based on visitType.</attributeDefinition>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY-MM-DD hh:mm:ss</formatString>
+              <dateTimeDomain>
+                <bounds>
+                  <minimum exclusive="false">44580.521</minimum>
+                  <maximum exclusive="false">45809.4068</maximum>
                 </bounds>
               </dateTimeDomain>
             </dateTime>
@@ -512,15 +528,15 @@
           </measurementScale>
         </attribute>
       </attributeList>
-      <numberOfRecords>21193</numberOfRecords>
+      <numberOfRecords>27385</numberOfRecords>
     </dataTable>
     <dataTable>
       <entityName>lower_feather_trap.csv</entityName>
       <entityDescription>Daily trap operations</entityDescription>
       <physical>
         <objectName>lower_feather_trap.csv</objectName>
-        <size unit="bytes">313740</size>
-        <authentication method="MD5">bc9f8d52dd90b569b576b4f9eedffb14</authentication>
+        <size unit="bytes">432474</size>
+        <authentication method="MD5">2af0d5a7b0efff324c74cd0dfeb56123</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -533,7 +549,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/edi-updates-11-24/data/lower_feather_trap.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/edi-updates-9-25/data/lower_feather_trap.csv</url>
           </online>
         </distribution>
       </physical>
@@ -607,7 +623,23 @@
               <dateTimeDomain>
                 <bounds>
                   <minimum exclusive="false">2022-01-19 12:30:11</minimum>
-                  <maximum exclusive="false">2024-06-13 12:15:42</maximum>
+                  <maximum exclusive="false">2025-06-02 10:00:26</maximum>
+                </bounds>
+              </dateTimeDomain>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>visitTime2</attributeName>
+          <attributeLabel>catch</attributeLabel>
+          <attributeDefinition>Date and time of day associated with the end of trap visit. Definition varies based on visitType.</attributeDefinition>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY-MM-DD hh:mm:ss</formatString>
+              <dateTimeDomain>
+                <bounds>
+                  <minimum exclusive="false">2022-01-19 12:30:11</minimum>
+                  <maximum exclusive="false">2025-06-02 10:00:26</maximum>
                 </bounds>
               </dateTimeDomain>
             </dateTime>
@@ -776,7 +808,7 @@
               <numericDomain>
                 <numberType>real</numberType>
                 <bounds>
-                  <minimum exclusive="false">8.4</minimum>
+                  <minimum exclusive="false">5.0199999999999996</minimum>
                   <maximum exclusive="false">68.599999999999994</maximum>
                 </bounds>
               </numericDomain>
@@ -833,8 +865,8 @@
               <numericDomain>
                 <numberType>real</numberType>
                 <bounds>
-                  <minimum exclusive="false">1.1999999999999999E-3</minimum>
-                  <maximum exclusive="false">2.52</maximum>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">77.900000000000006</maximum>
                 </bounds>
               </numericDomain>
             </ratio>
@@ -855,15 +887,15 @@
           </measurementScale>
         </attribute>
       </attributeList>
-      <numberOfRecords>1291</numberOfRecords>
+      <numberOfRecords>1641</numberOfRecords>
     </dataTable>
     <dataTable>
       <entityName>lower_feather_recapture.csv</entityName>
       <entityDescription>Recaptured fish</entityDescription>
       <physical>
         <objectName>lower_feather_recapture.csv</objectName>
-        <size unit="bytes">6270</size>
-        <authentication method="MD5">ff292b04aa7245820e880d2ab9a4de27</authentication>
+        <size unit="bytes">7794</size>
+        <authentication method="MD5">61c161adde2684ef5b9a6b538d86d114</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -876,7 +908,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/edi-updates-11-24/data/lower_feather_recapture.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/edi-updates-9-25/data/lower_feather_recapture.csv</url>
           </online>
         </distribution>
       </physical>
@@ -1024,8 +1056,8 @@
               <formatString>YYYY-MM-DD hh:mm:ss</formatString>
               <dateTimeDomain>
                 <bounds>
-                  <minimum exclusive="false">44594.4168</minimum>
-                  <maximum exclusive="false">45382.3544</maximum>
+                  <minimum exclusive="false">44594.41678240741</minimum>
+                  <maximum exclusive="false">45382.354409722226</maximum>
                 </bounds>
               </dateTimeDomain>
             </dateTime>
@@ -1040,8 +1072,8 @@
               <formatString>YYYY-MM-DD hh:mm:ss</formatString>
               <dateTimeDomain>
                 <bounds>
-                  <minimum exclusive="false">44594.4168</minimum>
-                  <maximum exclusive="false">45382.3544</maximum>
+                  <minimum exclusive="false">44594.41678240741</minimum>
+                  <maximum exclusive="false">45382.354409722226</maximum>
                 </bounds>
               </dateTimeDomain>
             </dateTime>
@@ -1131,6 +1163,38 @@
             </nominal>
           </measurementScale>
         </attribute>
+        <attribute>
+          <attributeName>trap_start_date</attributeName>
+          <attributeLabel>recapture</attributeLabel>
+          <attributeDefinition>Start date and time of a trapping period. Derived from visitTime and visitTime2 fields, adjusted based on the visitType field</attributeDefinition>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY-MM-DD hh:mm:ss</formatString>
+              <dateTimeDomain>
+                <bounds>
+                  <minimum exclusive="false">2022-02-02 10:00:10</minimum>
+                  <maximum exclusive="false">2024-03-31 08:30:21</maximum>
+                </bounds>
+              </dateTimeDomain>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>trap_end_date</attributeName>
+          <attributeLabel>recapture</attributeLabel>
+          <attributeDefinition>End date and time of a trapping period. Derived from visitTime and visitTime2 fields, adjusted based on the visitType field</attributeDefinition>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY-MM-DD hh:mm:ss</formatString>
+              <dateTimeDomain>
+                <bounds>
+                  <minimum exclusive="false">2022-02-02 10:00:10</minimum>
+                  <maximum exclusive="false">2024-03-31 08:30:21</maximum>
+                </bounds>
+              </dateTimeDomain>
+            </dateTime>
+          </measurementScale>
+        </attribute>
       </attributeList>
       <numberOfRecords>36</numberOfRecords>
     </dataTable>
@@ -1139,8 +1203,8 @@
       <entityDescription>Released fish</entityDescription>
       <physical>
         <objectName>lower_feather_release.csv</objectName>
-        <size unit="bytes">3781</size>
-        <authentication method="MD5">f1d89dee5eed76db002c674b3947622d</authentication>
+        <size unit="bytes">4612</size>
+        <authentication method="MD5">5ed943e8a2c7de3e5eabf0e770498aad</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -1153,7 +1217,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/edi-updates-11-24/data/lower_feather_release.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/edi-updates-9-25/data/lower_feather_release.csv</url>
           </online>
         </distribution>
       </physical>
@@ -1288,7 +1352,7 @@
               <dateTimeDomain>
                 <bounds>
                   <minimum exclusive="false">44593.5001</minimum>
-                  <maximum exclusive="false">3/28/2024  15:00:11 AM</maximum>
+                  <maximum exclusive="false">45779.5835</maximum>
                 </bounds>
               </dateTimeDomain>
             </dateTime>
@@ -1306,7 +1370,7 @@
               <numericDomain>
                 <numberType>whole</numberType>
                 <bounds>
-                  <minimum exclusive="false">5</minimum>
+                  <minimum exclusive="false">4</minimum>
                   <maximum exclusive="false">7</maximum>
                 </bounds>
               </numericDomain>
@@ -1370,15 +1434,15 @@
           </measurementScale>
         </attribute>
       </attributeList>
-      <numberOfRecords>26</numberOfRecords>
+      <numberOfRecords>32</numberOfRecords>
     </dataTable>
     <dataTable>
       <entityName>lower_feather_release_fish.csv</entityName>
       <entityDescription>Released fish</entityDescription>
       <physical>
         <objectName>lower_feather_release_fish.csv</objectName>
-        <size unit="bytes">128</size>
-        <authentication method="MD5">77a7bbef59a786d774d0aa1605c4ffd1</authentication>
+        <size unit="bytes">281</size>
+        <authentication method="MD5">a96e196bc4142fdcb1b1ba98ab344beb</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -1391,7 +1455,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/edi-updates-11-24/data/lower_feather_release_fish.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/edi-updates-9-25/data/lower_feather_release_fish.csv</url>
           </online>
         </distribution>
       </physical>
@@ -1461,7 +1525,7 @@
           </measurementScale>
         </attribute>
       </attributeList>
-      <numberOfRecords>6</numberOfRecords>
+      <numberOfRecords>18</numberOfRecords>
     </dataTable>
   </dataset>
   <additionalMetadata>
