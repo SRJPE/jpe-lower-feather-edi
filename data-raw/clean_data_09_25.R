@@ -1,5 +1,6 @@
 library(tidyverse)
 library(readxl)
+library(weathermetrics)
 
 # catch  #
 catch_raw <- read_xlsx(here::here("data-raw", "lower_feather_catch.xlsx")) |>
@@ -16,9 +17,16 @@ write_csv(catch_raw, here::here("data", "lower_feather_catch.csv"))
 
 # trap
 trap_raw <- read_xlsx(here::here("data-raw", "lower_feather_trap.xlsx")) |>
-  mutate(waterTempUnit = if_else(waterTempUnit == "°C", "Celsius", "Fahrenheit")) |> # is this code not necessary?
-  select(-counterAtStart) |>
+  arrange(subSiteName, visitTime) |>
+  mutate(counterAtStart = ifelse(counterAtStart > 6150, NA, counterAtStart), # setting outlier of 6150 in counterAtStart to NA
+         trap_start_date = ymd_hms(case_when(visitType %in% c("Continue trapping", "Unplanned restart", "End trapping") ~ lag(visitTime2),
+                                             T ~ visitTime)),
+         trap_end_date = ymd_hms(case_when(visitType %in% c("Continue trapping", "Unplanned restart", "End trapping") ~ visitTime,
+                                           T ~ visitTime2)),
+         waterTemp = ifelse(waterTempUnit == "°F", fahrenheit.to.celsius(waterTemp), waterTemp)) |> # doing the conversion "manually"
+  select(-waterTempUnit) |> # compared to tisdale, this query did not have "lightPenetration
   glimpse()
+
 write_csv(trap_raw, here::here("data", "lower_feather_trap.csv"))
 
 # recaptures
