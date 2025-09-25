@@ -3,7 +3,13 @@ library(readxl)
 
 # catch  #
 catch_raw <- read_xlsx(here::here("data-raw", "lower_feather_catch.xlsx")) |>
-  select(-actualCount) |>
+  # select(-actualCount) |>
+  mutate(trap_start_date = ymd_hms(case_when(visitType %in% c("Continue trapping", "Unplanned restart", "End trapping") ~ lag(visitTime2),
+                                             T ~ visitTime)),
+         trap_end_date = ymd_hms(case_when(visitType %in% c("Continue trapping", "Unplanned restart", "End trapping") ~ visitTime,
+                                           T ~ visitTime2)),
+         actualCount = case_when(actualCount != "Yes" ~ "No",
+                                 TRUE ~ actualCount)) |>
   glimpse()
 
 write_csv(catch_raw, here::here("data", "lower_feather_catch.csv"))
