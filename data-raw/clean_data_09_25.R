@@ -34,13 +34,13 @@ recaptures_raw <- read_xlsx(here::here("data-raw", "lower_feather_recapture.xlsx
   mutate(trap_start_date = ymd_hms(case_when(visitType %in% c("Continue trapping", "Unplanned restart", "End trapping") ~ lag(visitTime2),
                                              T ~ visitTime)),
          trap_end_date = ymd_hms(case_when(visitType %in% c("Continue trapping", "Unplanned restart", "End trapping") ~ visitTime,
-                                           T ~ visitTime2))) |>
+                                           T ~ visitTime2))) |> # no lifestage, forklength
   glimpse()
 
 write_csv(recaptures_raw, here::here("data", "lower_feather_recapture.csv"))
 
 # releases
-release_raw <- read_xlsx(here::here("data-raw", "lower_feather_release.xlsx")) |>
+release_raw <- read_xlsx(here::here("data-raw", "lower_feather_release.xlsx")) |> #no markLifeStage, sourceOfFishSite, appliedMarkCode
   glimpse()
 write_csv(release_raw, here::here("data", "lower_feather_release.csv"))
 
