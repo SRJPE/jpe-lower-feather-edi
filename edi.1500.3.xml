@@ -30,7 +30,7 @@
       <electronicMailAddress>anna.allison@wildlife.ca.gov</electronicMailAddress>
       <role>principal investigator</role>
     </associatedParty>
-    <pubDate>2025-09-24</pubDate>
+    <pubDate>2025-09-25</pubDate>
     <abstract>
       <para>
     CDFW issued Incidental Take Permit No. 2081-2019-006-00 (ITP) to the
@@ -246,8 +246,8 @@
       <entityDescription>Daily catch</entityDescription>
       <physical>
         <objectName>lower_feather_catch.csv</objectName>
-        <size unit="bytes">4270251</size>
-        <authentication method="MD5">250fdf4d590048815200058b653c6ea6</authentication>
+        <size unit="bytes">5529972</size>
+        <authentication method="MD5">804662eafb19bff2998aa399b1885e4b</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -527,6 +527,52 @@
             </nominal>
           </measurementScale>
         </attribute>
+        <attribute>
+          <attributeName>actualCount</attributeName>
+          <attributeLabel>catch</attributeLabel>
+          <attributeDefinition>Whether the count (n) is an actual count or estimate. Levels = c("Yes", "No")</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Whether the count (n) is an actual count or estimate. Levels = c("Yes", "No")</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>trap_start_date</attributeName>
+          <attributeLabel>catch</attributeLabel>
+          <attributeDefinition>Start date and time of a trapping period. Derived from visitTime and visitTime2 fields, adjusted based on the visitType field</attributeDefinition>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY-MM-DD hh:mm:ss</formatString>
+              <dateTimeDomain>
+                <bounds>
+                  <minimum exclusive="false">44580.521</minimum>
+                  <maximum exclusive="false">45809.4068</maximum>
+                </bounds>
+              </dateTimeDomain>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>trap_end_date</attributeName>
+          <attributeLabel>catch</attributeLabel>
+          <attributeDefinition>End date and time of a trapping period. Derived from visitTime and visitTime2 fields, adjusted based on the visitType field</attributeDefinition>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY-MM-DD hh:mm:ss</formatString>
+              <dateTimeDomain>
+                <bounds>
+                  <minimum exclusive="false">44580.521</minimum>
+                  <maximum exclusive="false">45809.4068</maximum>
+                </bounds>
+              </dateTimeDomain>
+            </dateTime>
+          </measurementScale>
+        </attribute>
       </attributeList>
       <numberOfRecords>27385</numberOfRecords>
     </dataTable>
@@ -535,8 +581,8 @@
       <entityDescription>Daily trap operations</entityDescription>
       <physical>
         <objectName>lower_feather_trap.csv</objectName>
-        <size unit="bytes">432474</size>
-        <authentication method="MD5">2af0d5a7b0efff324c74cd0dfeb56123</authentication>
+        <size unit="bytes">478979</size>
+        <authentication method="MD5">f7ae52d4b38a9d490776e767dcb40e16</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -685,6 +731,25 @@
                 </textDomain>
               </nonNumericDomain>
             </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>counterAtStart</attributeName>
+          <attributeLabel>trap</attributeLabel>
+          <attributeDefinition>Reading on the rotation counter at the start of the trap visit</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>number of rotations</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">6150</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
           </measurementScale>
         </attribute>
         <attribute>
@@ -873,17 +938,35 @@
           </measurementScale>
         </attribute>
         <attribute>
-          <attributeName>waterTempUnit</attributeName>
+          <attributeName>trap_start_date</attributeName>
           <attributeLabel>trap</attributeLabel>
-          <attributeDefinition>Unit of water temperature recorded. Levels = c(NA, "Celsius", "Fahrenheit").</attributeDefinition>
+          <attributeDefinition>Start date and time of a trapping period. Derived from visitTime and visitTime2 fields, adjusted based on the visitType field</attributeDefinition>
           <measurementScale>
-            <nominal>
-              <nonNumericDomain>
-                <textDomain>
-                  <definition>Unit of water temperature recorded. Levels = c(NA, "Celsius", "Fahrenheit").</definition>
-                </textDomain>
-              </nonNumericDomain>
-            </nominal>
+            <dateTime>
+              <formatString>YYYY-MM-DD hh:mm:ss</formatString>
+              <dateTimeDomain>
+                <bounds>
+                  <minimum exclusive="false">2022-01-19 12:30:11</minimum>
+                  <maximum exclusive="false">2025-06-02 09:45:50</maximum>
+                </bounds>
+              </dateTimeDomain>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>trap_end_date</attributeName>
+          <attributeLabel>trap</attributeLabel>
+          <attributeDefinition>End date and time of a trapping period. Derived from visitTime and visitTime2 fields, adjusted based on the visitType field</attributeDefinition>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY-MM-DD hh:mm:ss</formatString>
+              <dateTimeDomain>
+                <bounds>
+                  <minimum exclusive="false">2022-01-19 12:30:11</minimum>
+                  <maximum exclusive="false">2025-06-02 10:00:26</maximum>
+                </bounds>
+              </dateTimeDomain>
+            </dateTime>
           </measurementScale>
         </attribute>
       </attributeList>
@@ -1173,7 +1256,7 @@
               <dateTimeDomain>
                 <bounds>
                   <minimum exclusive="false">2022-02-02 10:00:10</minimum>
-                  <maximum exclusive="false">2024-03-31 08:30:21</maximum>
+                  <maximum exclusive="false">2024-03-31 10:45:51</maximum>
                 </bounds>
               </dateTimeDomain>
             </dateTime>
