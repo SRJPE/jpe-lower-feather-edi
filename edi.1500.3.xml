@@ -15,11 +15,11 @@
     <title>Monitoring juvenile Chinook salmon outmigration using rotary screw traps on the Lower Feather River</title>
     <creator>
       <individualName>
-        <givenName>Claire</givenName>
-        <surName>Bryant</surName>
+        <givenName>Gabe</givenName>
+        <surName>Loera</surName>
       </individualName>
       <organizationName>California Department of Fish and Wildlife</organizationName>
-      <electronicMailAddress>Claire.Bryant@Wildlife.ca.gov</electronicMailAddress>
+      <electronicMailAddress>gabriel.loera@wildlife.ca.gov</electronicMailAddress>
     </creator>
     <associatedParty>
       <individualName>
@@ -30,7 +30,7 @@
       <electronicMailAddress>anna.allison@wildlife.ca.gov</electronicMailAddress>
       <role>principal investigator</role>
     </associatedParty>
-    <pubDate>2025-09-25</pubDate>
+    <pubDate>2025-09-30</pubDate>
     <abstract>
       <para>
     CDFW issued Incidental Take Permit No. 2081-2019-006-00 (ITP) to the
@@ -126,11 +126,11 @@
     </maintenance>
     <contact>
       <individualName>
-        <givenName>Claire</givenName>
-        <surName>Bryant</surName>
+        <givenName>Gabe</givenName>
+        <surName>Loera</surName>
       </individualName>
       <organizationName>California Department of Fish and Wildlife</organizationName>
-      <electronicMailAddress>Claire.Bryant@Wildlife.ca.gov</electronicMailAddress>
+      <electronicMailAddress>gabriel.loera@wildlife.ca.gov</electronicMailAddress>
     </contact>
     <methods>
       <methodStep>
@@ -228,11 +228,11 @@
       <title>Monitoring juvenile Chinook salmon outmigration using rotary screw traps on the Lower Feather River</title>
       <personnel>
         <individualName>
-          <givenName>Claire</givenName>
-          <surName>Bryant</surName>
+          <givenName>Gabe</givenName>
+          <surName>Loera</surName>
         </individualName>
         <organizationName>California Department of Fish and Wildlife</organizationName>
-        <electronicMailAddress>Claire.Bryant@Wildlife.ca.gov</electronicMailAddress>
+        <electronicMailAddress>gabriel.loera@wildlife.ca.gov</electronicMailAddress>
         <role>Project Lead</role>
       </personnel>
       <award>
@@ -1367,12 +1367,12 @@
         <attribute>
           <attributeName>markedFishOrigin</attributeName>
           <attributeLabel>release</attributeLabel>
-          <attributeDefinition>Origin or production type of fish marked. Levels = c("Natural", "Hatchery")</attributeDefinition>
+          <attributeDefinition>Origin or production type of fish marked. Levels = c("Natural", "Hatchery"). All hatchery fish are from FRFH, and all natural fish are caught in the Lower Feather River RST.</attributeDefinition>
           <measurementScale>
             <nominal>
               <nonNumericDomain>
                 <textDomain>
-                  <definition>Origin or production type of fish marked. Levels = c("Natural", "Hatchery")</definition>
+                  <definition>Origin or production type of fish marked. Levels = c("Natural", "Hatchery"). All hatchery fish are from FRFH, and all natural fish are caught in the Lower Feather River RST.</definition>
                 </textDomain>
               </nonNumericDomain>
             </nominal>

@@ -43,6 +43,7 @@ write_csv(recaptures_raw, here::here("data", "lower_feather_recapture.csv"))
 release_raw <- read_xlsx(here::here("data-raw", "lower_feather_release.xlsx")) |> #no markLifeStage, appliedMarkCode
   # asked Gabe an about sourceOfFishSite (and other missing fields):
   # all fish used for Etrials were from the Feather River Fish Hatchery or caught in Lower Feather River RST
+  # this will be added to metadata
   glimpse()
 
 write_csv(release_raw, here::here("data", "lower_feather_release.csv"))
