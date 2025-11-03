@@ -30,7 +30,7 @@
       <electronicMailAddress>anna.allison@wildlife.ca.gov</electronicMailAddress>
       <role>principal investigator</role>
     </associatedParty>
-    <pubDate>2025-09-30</pubDate>
+    <pubDate>2025-11-03</pubDate>
     <abstract>
       <para>
     CDFW issued Incidental Take Permit No. 2081-2019-006-00 (ITP) to the
@@ -246,8 +246,8 @@
       <entityDescription>Daily catch</entityDescription>
       <physical>
         <objectName>lower_feather_catch.csv</objectName>
-        <size unit="bytes">5529972</size>
-        <authentication method="MD5">804662eafb19bff2998aa399b1885e4b</authentication>
+        <size unit="bytes">5530778</size>
+        <authentication method="MD5">ab720da33fbecc4167b92e4efdcba260</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -574,15 +574,15 @@
           </measurementScale>
         </attribute>
       </attributeList>
-      <numberOfRecords>27385</numberOfRecords>
+      <numberOfRecords>27388</numberOfRecords>
     </dataTable>
     <dataTable>
       <entityName>lower_feather_trap.csv</entityName>
       <entityDescription>Daily trap operations</entityDescription>
       <physical>
         <objectName>lower_feather_trap.csv</objectName>
-        <size unit="bytes">478979</size>
-        <authentication method="MD5">f7ae52d4b38a9d490776e767dcb40e16</authentication>
+        <size unit="bytes">478650</size>
+        <authentication method="MD5">7bc52f3f01a6a464d311f8249a19e7db</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
