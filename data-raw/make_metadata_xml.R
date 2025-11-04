@@ -9,20 +9,24 @@ datatable_metadata <-
   dplyr::tibble(filepath = c("data/lower_feather_catch.csv",
                              "data/lower_feather_trap.csv",
                              "data/lower_feather_recapture.csv",
-                             "data/lower_feather_release.csv"),
+                             "data/lower_feather_release.csv",
+                             "data/lower_feather_release_fish.csv"),
                 attribute_info = c("data-raw/metadata/lower_feather_catch_metadata.xlsx",
                                    "data-raw/metadata/lower_feather_trap_metadata.xlsx",
                                    "data-raw/metadata/lower_feather_recapture_metadata.xlsx",
-                                   "data-raw/metadata/lower_feather_release_metadata.xlsx"),
+                                   "data-raw/metadata/lower_feather_release_metadata.xlsx",
+                                   "data-raw/metadata/lower_feather_releasefish_metadata.xlsx"),
                 datatable_description = c("Daily catch",
                                           "Daily trap operations",
                                           "Recaptured fish",
-                                          "Released fish"),
-                datatable_url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/main/data/",
+                                          "Released fish",
+                                          "Released fish"), #TODO check this description
+                datatable_url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/edi-updates-9-25/data/", #TODO updates this path when merged
                                        c("lower_feather_catch.csv",
                                          "lower_feather_trap.csv",
                                          "lower_feather_recapture.csv",
-                                         "lower_feather_release.csv")))
+                                         "lower_feather_release.csv",
+                                         "lower_feather_release_fish.csv")))
 
 excel_path <- "data-raw/metadata/lower_feather_metadata.xlsx"
 sheets <- readxl::excel_sheets(excel_path)
@@ -34,7 +38,7 @@ methods_docx <- "data-raw/metadata/methods.md" # original, bulleted methods are 
 
 #edi_number <- reserve_edi_id(user_id = Sys.getenv("edi_user_id"), password = Sys.getenv("edi_password"))
 # edi_number <- "edi.1500.1" # reserved 9-20-2023 under srjpe account
-edi_number <- "edi.1500.2" # update ?
+edi_number <- "edi.1500.3" # update ?
 
 dataset <- list() %>%
   add_pub_date() %>%
@@ -66,7 +70,6 @@ custom_units <- data.frame(id = c("number of rotations", "NTU", "revolutions per
 
 
 unitList <- EML::set_unitList(custom_units)
-edi_number
 eml <- list(packageId = edi_number,
             system = "EDI",
             access = add_access(),
@@ -74,13 +77,11 @@ eml <- list(packageId = edi_number,
             additionalMetadata = list(metadata = list(unitList = unitList))
 )
 
-edi_number
-
 EML::write_eml(eml, paste0(edi_number, ".xml"))
 EML::eml_validate(paste0(edi_number, ".xml"))
 
 EMLaide::evaluate_edi_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), paste0(edi_number, ".xml"))
 View(report_df)
-EMLaide::upload_edi_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), paste0(edi_number, ".xml"))
+# EMLaide::upload_edi_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), paste0(edi_number, ".xml"))
 
 
