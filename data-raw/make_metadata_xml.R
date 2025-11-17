@@ -82,6 +82,5 @@ EML::eml_validate(paste0(edi_number, ".xml"))
 
 EMLaide::evaluate_edi_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), paste0(edi_number, ".xml"))
 View(report_df)
-# EMLaide::upload_edi_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), paste0(edi_number, ".xml"))
 
-
+# EMLaide::update_edi_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), "edi.1500.2", paste0(edi_number, ".xml"))
