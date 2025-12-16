@@ -21,7 +21,7 @@ datatable_metadata <-
                                           "Recaptured fish",
                                           "Released fish",
                                           "Released fish"), #TODO check this description
-                datatable_url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/main/data/",
+                datatable_url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/updates-2025/data/",
                                        c("lower_feather_catch.csv",
                                          "lower_feather_trap.csv",
                                          "lower_feather_recapture.csv",
@@ -38,7 +38,7 @@ methods_docx <- "data-raw/metadata/methods.md" # original, bulleted methods are 
 
 #edi_number <- reserve_edi_id(user_id = Sys.getenv("edi_user_id"), password = Sys.getenv("edi_password"))
 # edi_number <- "edi.1500.1" # reserved 9-20-2023 under srjpe account
-edi_number <- "edi.1500.3" # update ?
+edi_number <- "edi.1500.4" # update ?
 
 dataset <- list() %>%
   add_pub_date() %>%
