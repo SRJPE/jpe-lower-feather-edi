@@ -24,3 +24,5 @@ Fish are marked with Bismarck Brown Y (BBY) whole body stain. Fish are alternati
 
 ## References
 Fisher, F.W. (1992). Chinook salmon, Oncorhynchus tshawytscha, growth and occurrence in the Sacramento-San Joaquin River system. Draft copy. California Department of Fish and Game, Inland Fisheries Division Office Report, Sacramento, CA. June 1992.
+
+Note: data within the current year’s monitoring season are considered provisional.
