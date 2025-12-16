@@ -119,7 +119,7 @@
             <calendarDate>2022-01-19</calendarDate>
           </beginDate>
           <endDate>
-            <calendarDate>2025-06-02</calendarDate>
+            <calendarDate>2025-12-12</calendarDate>
           </endDate>
         </rangeOfDates>
       </temporalCoverage>
@@ -224,6 +224,10 @@
       Draft copy. California Department of Fish and Game, Inland
       Fisheries Division Office Report, Sacramento, CA. June 1992.
     </para>
+            <para>
+      Note: data within the current year’s monitoring season are
+      considered provisional.
+    </para>
           </section>
         </description>
       </methodStep>
@@ -264,7 +268,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/main/updates-2025/lower_feather_catch.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/updates-2025/lower_feather_catch.csv</url>
           </online>
         </distribution>
       </physical>
@@ -599,7 +603,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/main/updates-2025/lower_feather_trap.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/updates-2025/lower_feather_trap.csv</url>
           </online>
         </distribution>
       </physical>
@@ -995,7 +999,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/main/updates-2025/lower_feather_recapture.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/updates-2025/lower_feather_recapture.csv</url>
           </online>
         </distribution>
       </physical>
@@ -1304,7 +1308,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/main/updates-2025/lower_feather_release.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/updates-2025/lower_feather_release.csv</url>
           </online>
         </distribution>
       </physical>
@@ -1542,7 +1546,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/main/updates-2025/lower_feather_release_fish.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/updates-2025/lower_feather_release_fish.csv</url>
           </online>
         </distribution>
       </physical>
