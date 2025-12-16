@@ -254,8 +254,8 @@
       <entityDescription>Daily catch</entityDescription>
       <physical>
         <objectName>lower_feather_catch.csv</objectName>
-        <size unit="bytes">14</size>
-        <authentication method="MD5">3be7b8b182ccd96e48989b4e57311193</authentication>
+        <size unit="bytes">5553071</size>
+        <authentication method="MD5">4b7b8f192b4188993136412057b7a2c0</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -268,7 +268,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/updates-2025/lower_feather_catch.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/updates-2025/data/lower_feather_catch.csv</url>
           </online>
         </distribution>
       </physical>
@@ -589,8 +589,8 @@
       <entityDescription>Daily trap operations</entityDescription>
       <physical>
         <objectName>lower_feather_trap.csv</objectName>
-        <size unit="bytes">14</size>
-        <authentication method="MD5">3be7b8b182ccd96e48989b4e57311193</authentication>
+        <size unit="bytes">496151</size>
+        <authentication method="MD5">2068f54a58bf9a165f5553f52ed3c9ce</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -603,7 +603,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/updates-2025/lower_feather_trap.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/updates-2025/data/lower_feather_trap.csv</url>
           </online>
         </distribution>
       </physical>
@@ -985,8 +985,8 @@
       <entityDescription>Recaptured fish</entityDescription>
       <physical>
         <objectName>lower_feather_recapture.csv</objectName>
-        <size unit="bytes">14</size>
-        <authentication method="MD5">3be7b8b182ccd96e48989b4e57311193</authentication>
+        <size unit="bytes">7794</size>
+        <authentication method="MD5">61c161adde2684ef5b9a6b538d86d114</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -999,7 +999,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/updates-2025/lower_feather_recapture.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/updates-2025/data/lower_feather_recapture.csv</url>
           </online>
         </distribution>
       </physical>
@@ -1294,8 +1294,8 @@
       <entityDescription>Released fish</entityDescription>
       <physical>
         <objectName>lower_feather_release.csv</objectName>
-        <size unit="bytes">14</size>
-        <authentication method="MD5">3be7b8b182ccd96e48989b4e57311193</authentication>
+        <size unit="bytes">4600</size>
+        <authentication method="MD5">7eeea85254ad770df7ef77cf675cee0b</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -1308,7 +1308,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/updates-2025/lower_feather_release.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/updates-2025/data/lower_feather_release.csv</url>
           </online>
         </distribution>
       </physical>
@@ -1532,8 +1532,8 @@
       <entityDescription>Released fish</entityDescription>
       <physical>
         <objectName>lower_feather_release_fish.csv</objectName>
-        <size unit="bytes">14</size>
-        <authentication method="MD5">3be7b8b182ccd96e48989b4e57311193</authentication>
+        <size unit="bytes">281</size>
+        <authentication method="MD5">a96e196bc4142fdcb1b1ba98ab344beb</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -1546,7 +1546,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/updates-2025/lower_feather_release_fish.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/updates-2025/data/lower_feather_release_fish.csv</url>
           </online>
         </distribution>
       </physical>

@@ -21,7 +21,7 @@ datatable_metadata <-
                                           "Recaptured fish",
                                           "Released fish",
                                           "Released fish"), #TODO check this description
-                datatable_url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/updates-2025/",
+                datatable_url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/updates-2025/data/",
                                        c("lower_feather_catch.csv",
                                          "lower_feather_trap.csv",
                                          "lower_feather_recapture.csv",
