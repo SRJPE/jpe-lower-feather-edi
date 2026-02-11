@@ -21,7 +21,7 @@ datatable_metadata <-
                                           "Recaptured fish",
                                           "Released fish",
                                           "Released fish"), #TODO check this description
-                datatable_url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/jan-2026-updates/data/",
+                datatable_url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/main/data/",
                                        c("lower_feather_catch.csv",
                                          "lower_feather_trap.csv",
                                          "lower_feather_recapture.csv",
@@ -83,4 +83,4 @@ EML::eml_validate(paste0(edi_number, ".xml"))
 EMLaide::evaluate_edi_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), paste0(edi_number, ".xml"))
 View(report_df)
 
-# EMLaide::update_edi_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), "edi.1500.2", paste0(edi_number, ".xml"))
+# EMLaide::update_edi_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), "edi.1500.4", paste0(edi_number, ".xml"))
