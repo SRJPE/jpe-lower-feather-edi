@@ -29445,3 +29445,851 @@ ProjectDescriptionID,catchRawID,trapVisitID,commonName,releaseID,atCaptureRun,fi
 12,30892,1794,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-01-27T10:00:58Z,2026-01-27T10:00:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-27T10:00:58Z,2026-01-27T10:00:58Z
 12,30893,1794,Chinook salmon,255,Fall,Natural,Not recorded,NA,NA,1,2026-01-27T10:00:58Z,2026-01-27T10:00:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-27T10:00:58Z,2026-01-27T10:00:58Z
 12,30894,1794,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,206,NA,1,2026-01-27T10:00:58Z,2026-01-27T10:00:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-27T10:00:58Z,2026-01-27T10:00:58Z
+12,30895,1795,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-27T10:00:58Z,2026-01-28T10:00:54Z
+12,30896,1795,Chinook salmon,255,Fall,Natural,Not recorded,39,NA,1,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z
+12,30897,1795,Chinook salmon,255,Fall,Natural,Fry,29,NA,1,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z
+12,30898,1795,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z
+12,30899,1795,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z
+12,30900,1795,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z
+12,30901,1795,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z
+12,30902,1795,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z
+12,30903,1795,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,236,NA,1,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z
+12,30904,1795,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,230,NA,1,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z
+12,30905,1795,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,229,NA,1,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-28T10:00:54Z,2026-01-28T10:00:54Z
+12,30906,1796,Chinook salmon,255,Fall,Natural,Parr,31,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:54Z,2026-01-28T10:00:11Z
+12,30907,1796,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30908,1796,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30909,1796,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30910,1796,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30911,1796,Chinook salmon,255,Fall,Natural,Parr,40,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30912,1796,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30913,1796,Chinook salmon,255,Fall,Natural,Fry,30,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30914,1796,Chinook salmon,255,Fall,Natural,Fry,32,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30915,1796,Chinook salmon,255,Fall,Natural,Parr,31,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30916,1796,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30917,1796,Chinook salmon,255,Fall,Natural,Parr,31,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30918,1796,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30919,1796,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30920,1796,Chinook salmon,255,Fall,Natural,Fry,37,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30921,1796,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30922,1796,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30923,1796,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30924,1796,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,217,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30925,1796,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,198,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30926,1796,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,140,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30927,1796,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,119,NA,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30928,1796,Smallmouth bass,255,Not recorded,Natural,Not recorded,NA,62,1,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-28T10:00:11Z,2026-01-28T10:00:11Z
+12,30929,1797,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-01-29T10:00:02Z,2026-01-29T10:00:02Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-28T10:00:11Z,2026-01-29T10:00:02Z
+12,30930,1797,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-29T10:00:02Z,2026-01-29T10:00:02Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-29T10:00:02Z,2026-01-29T10:00:02Z
+12,30931,1797,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-29T10:00:02Z,2026-01-29T10:00:02Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-29T10:00:02Z,2026-01-29T10:00:02Z
+12,30932,1797,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-01-29T10:00:02Z,2026-01-29T10:00:02Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-29T10:00:02Z,2026-01-29T10:00:02Z
+12,30933,1797,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-29T10:00:02Z,2026-01-29T10:00:02Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-29T10:00:02Z,2026-01-29T10:00:02Z
+12,30934,1797,Chinook salmon,255,Fall,Natural,Fry,33,NA,1,2026-01-29T10:00:02Z,2026-01-29T10:00:02Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-29T10:00:02Z,2026-01-29T10:00:02Z
+12,30935,1797,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-29T10:00:02Z,2026-01-29T10:00:02Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-29T10:00:02Z,2026-01-29T10:00:02Z
+12,30936,1798,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:02Z,2026-01-29T10:00:15Z
+12,30937,1798,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30938,1798,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30939,1798,Chinook salmon,255,Fall,Natural,Fry,31,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30940,1798,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30941,1798,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30942,1798,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30943,1798,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30944,1798,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30945,1798,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30946,1798,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30947,1798,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30948,1798,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30949,1798,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30950,1798,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30951,1798,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30952,1798,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30953,1798,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30954,1798,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30955,1798,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30956,1798,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30957,1798,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30958,1798,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30959,1798,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30960,1798,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30961,1798,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30962,1798,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30963,1798,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30964,1798,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30965,1798,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30966,1798,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30967,1798,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30968,1798,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:15Z
+12,30969,1797,Mosquitofish,255,Not recorded,Natural,Not recorded,NA,32,1,2026-01-29T10:00:02Z,2026-01-29T10:00:02Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-29T10:00:15Z,2026-01-29T10:00:02Z
+12,30970,1799,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-29T10:00:02Z,2026-01-30T10:00:07Z
+12,30971,1799,Chinook salmon,255,Fall,Natural,Not recorded,41,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30972,1799,Chinook salmon,255,Fall,Natural,Fry,34,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30973,1799,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30974,1799,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30975,1799,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30976,1799,Chinook salmon,255,Fall,Natural,Parr,40,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30977,1799,Chinook salmon,255,Fall,Natural,Parr,45,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30978,1799,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30979,1799,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30980,1799,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30981,1799,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30982,1799,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30983,1799,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30984,1799,Chinook salmon,255,Fall,Natural,Parr,40,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30985,1799,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30986,1799,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30987,1799,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30988,1799,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30989,1799,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30990,1799,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30991,1799,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30992,1799,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30994,1799,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,Fall,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30995,1799,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30996,1799,Steelhead / rainbow trout,255,Not recorded,Natural,Yearling,247,NA,1,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:07Z
+12,30997,1800,Chinook salmon,255,Fall,Natural,Not recorded,38,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:07Z,2026-01-30T10:00:05Z
+12,30998,1800,Chinook salmon,255,Fall,Natural,Not recorded,35,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,30999,1800,Chinook salmon,255,Fall,Natural,Not recorded,39,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31000,1800,Chinook salmon,255,Fall,Natural,Not recorded,36,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31001,1800,Chinook salmon,255,Fall,Natural,Not recorded,39,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31002,1800,Chinook salmon,255,Fall,Natural,Not recorded,35,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31003,1800,Chinook salmon,255,Fall,Natural,Not recorded,38,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31004,1800,Chinook salmon,255,Fall,Natural,Not recorded,36,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31005,1800,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31006,1800,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31007,1800,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31008,1800,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31009,1800,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31010,1800,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31011,1800,Chinook salmon,255,Fall,Natural,Parr,40,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31012,1800,Chinook salmon,255,Fall,Natural,Parr,32,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31013,1800,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31014,1800,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31015,1800,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31016,1800,Chinook salmon,255,Fall,Natural,Parr,41,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31017,1800,Chinook salmon,255,Fall,Natural,Parr,41,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31018,1800,Chinook salmon,255,Fall,Natural,Parr,40,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31019,1800,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31020,1800,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31021,1800,Chinook salmon,255,Fall,Natural,Parr,44,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31022,1800,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31023,1800,Chinook salmon,255,Fall,Natural,Not recorded,NA,NA,1,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-30T10:00:05Z
+12,31024,1801,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-30T10:00:05Z,2026-01-31T09:15:42Z
+12,31025,1801,Chinook salmon,255,Fall,Natural,Not recorded,43,NA,1,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z
+12,31026,1801,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z
+12,31027,1801,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z
+12,31028,1801,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z
+12,31029,1801,Chinook salmon,255,Fall,Natural,Parr,31,NA,1,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z
+12,31030,1801,Chinook salmon,255,Fall,Natural,Parr,31,NA,1,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z
+12,31031,1801,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z
+12,31032,1801,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z
+12,31033,1801,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z
+12,31034,1801,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z
+12,31035,1801,Chinook salmon,255,Fall,Natural,Not recorded,35,NA,1,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z
+12,31036,1801,Chinook salmon,255,Fall,Natural,Not recorded,38,NA,1,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z
+12,31037,1801,Steelhead / rainbow trout,255,Not recorded,Hatchery,Not recorded,194,NA,1,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z
+12,31038,1801,Wakasagi / Japanese smelt,255,Not recorded,Natural,Not recorded,NA,76,1,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-01-31T09:15:42Z,2026-01-31T09:15:42Z
+12,31039,1802,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:42Z,2026-01-31T09:15:17Z
+12,31040,1802,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31041,1802,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31042,1802,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31043,1802,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31044,1802,Chinook salmon,255,Fall,Natural,Parr,31,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31045,1802,Chinook salmon,255,Fall,Natural,Not recorded,36,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31046,1802,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31047,1802,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31048,1802,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31049,1802,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31050,1802,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31051,1802,Chinook salmon,255,Fall,Natural,Parr,40,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31052,1802,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31053,1802,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31054,1802,Chinook salmon,255,Fall,Natural,Not recorded,35,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31055,1802,Chinook salmon,255,Fall,Natural,Not recorded,33,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31056,1802,Chinook salmon,255,Fall,Natural,Not recorded,48,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31057,1802,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31058,1802,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31059,1802,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31060,1802,Chinook salmon,255,Fall,Natural,Not recorded,38,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31061,1802,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31062,1802,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31063,1802,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31064,1802,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31065,1802,Chinook salmon,255,Fall,Natural,Not recorded,42,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31066,1802,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31067,1802,Chinook salmon,255,Fall,Natural,Parr,32,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31068,1802,Chinook salmon,255,Fall,Natural,Parr,49,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31069,1802,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31070,1802,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31071,1802,Steelhead / rainbow trout,255,Not recorded,Hatchery,Not recorded,225,NA,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31072,1802,Mosquitofish,255,Not recorded,Hatchery,Not recorded,NA,29,1,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-01-31T09:15:17Z
+12,31073,1803,Chinook salmon,255,Fall,Natural,Not recorded,38,NA,1,2026-02-01T10:15:35Z,2026-02-01T10:15:35Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-01-31T09:15:17Z,2026-02-01T10:15:35Z
+12,31074,1803,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-01T10:15:35Z,2026-02-01T10:15:35Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-02-01T10:15:35Z,2026-02-01T10:15:35Z
+12,31075,1803,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-01T10:15:35Z,2026-02-01T10:15:35Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-02-01T10:15:35Z,2026-02-01T10:15:35Z
+12,31076,1803,Chinook salmon,255,Fall,Natural,Not recorded,39,NA,1,2026-02-01T10:15:35Z,2026-02-01T10:15:35Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-02-01T10:15:35Z,2026-02-01T10:15:35Z
+12,31077,1803,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,192,NA,1,2026-02-01T10:15:35Z,2026-02-01T10:15:35Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-02-01T10:15:35Z,2026-02-01T10:15:35Z
+12,31078,1803,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,208,NA,1,2026-02-01T10:15:35Z,2026-02-01T10:15:35Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-02-01T10:15:35Z,2026-02-01T10:15:35Z
+12,31079,1803,Pacific lamprey,255,Not recorded,Natural,Not recorded,NA,138,1,2026-02-01T10:15:35Z,2026-02-01T10:15:35Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-02-01T10:15:35Z,2026-02-01T10:15:35Z
+12,31080,1803,Tule perch,255,Not recorded,Natural,Not recorded,NA,132,1,2026-02-01T10:15:35Z,2026-02-01T10:15:35Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-02-01T10:15:35Z,2026-02-01T10:15:35Z
+12,31081,1804,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-01T10:15:39Z,2026-02-01T10:15:39Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-01T10:15:35Z,2026-02-01T10:15:39Z
+12,31082,1804,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-01T10:15:39Z,2026-02-01T10:15:39Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-01T10:15:39Z,2026-02-01T10:15:39Z
+12,31083,1804,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-01T10:15:39Z,2026-02-01T10:15:39Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-01T10:15:39Z,2026-02-01T10:15:39Z
+12,31084,1804,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-01T10:15:39Z,2026-02-01T10:15:39Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-01T10:15:39Z,2026-02-01T10:15:39Z
+12,31085,1805,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-01T10:15:39Z,2026-02-02T10:00:18Z
+12,31086,1805,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31087,1805,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31088,1805,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31089,1805,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31090,1805,Chinook salmon,255,Fall,Natural,Parr,32,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31091,1805,Chinook salmon,255,Fall,Natural,Button-up fry,33,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31092,1805,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31093,1805,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31094,1805,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31095,1805,Chinook salmon,255,Fall,Natural,Parr,32,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31096,1805,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31097,1805,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31098,1805,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31099,1805,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31100,1805,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31101,1805,Chinook salmon,255,Fall,Natural,Parr,42,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31102,1805,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31103,1805,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31104,1805,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31105,1805,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31106,1805,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31107,1805,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31108,1805,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31109,1805,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31110,1805,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31111,1805,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31112,1805,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31113,1805,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31114,1805,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31115,1805,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31116,1805,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31117,1805,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31118,1805,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31119,1805,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31120,1805,Chinook salmon,255,Fall,Natural,Parr,40,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31121,1805,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31122,1805,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31123,1805,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31124,1805,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31125,1805,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31126,1805,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31127,1805,Chinook salmon,255,Fall,Natural,Parr,32,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31128,1805,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31129,1805,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31130,1805,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31131,1805,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31132,1805,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31133,1805,Chinook salmon,255,Fall,Natural,Parr,32,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31134,1805,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31135,1805,Chinook salmon,255,Fall,Natural,Not recorded,NA,NA,53,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31136,1805,Chinook salmon,255,Fall,Natural,Not recorded,NA,NA,36,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31137,1805,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,206,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31138,1805,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,209,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31139,1805,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,215,NA,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31140,1805,Mosquitofish,255,Not recorded,Natural,Not recorded,NA,24,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31141,1805,Unknown lamprey (Entosphenus or Lampetra),255,Not recorded,Natural,Not recorded,NA,108,1,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:18Z
+12,31142,1806,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:18Z,2026-02-02T10:00:22Z
+12,31143,1806,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31144,1806,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31145,1806,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31146,1806,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31147,1806,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31148,1806,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31149,1806,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31150,1806,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31151,1806,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31152,1806,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31153,1806,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31154,1806,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31155,1806,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31156,1806,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31157,1806,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31158,1806,Chinook salmon,255,Fall,Natural,Not recorded,35,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31159,1806,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31160,1806,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31161,1806,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31162,1806,Chinook salmon,255,Fall,Natural,Not recorded,42,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31163,1806,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31164,1806,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31165,1806,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31166,1806,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31167,1806,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31168,1806,Chinook salmon,255,Fall,Natural,Not recorded,35,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31169,1806,Chinook salmon,255,Fall,Natural,Not recorded,41,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31170,1806,Chinook salmon,255,Fall,Natural,Not recorded,36,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31171,1806,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31172,1806,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31173,1806,Chinook salmon,255,Fall,Natural,Not recorded,38,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31174,1806,Chinook salmon,255,Fall,Natural,Not recorded,36,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31175,1806,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31176,1806,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31177,1806,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31178,1806,Chinook salmon,255,Fall,Natural,Parr,32,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31179,1806,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31180,1806,Chinook salmon,255,Fall,Natural,Not recorded,38,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31181,1806,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31182,1806,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31183,1806,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31184,1806,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31185,1806,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31186,1806,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31187,1806,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31188,1806,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31189,1806,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31190,1806,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31191,1806,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31192,1806,Chinook salmon,255,Fall,Natural,Not recorded,NA,NA,52,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31193,1806,Chinook salmon,255,Fall,Natural,Not recorded,NA,NA,45,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31194,1806,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,227,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31195,1806,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,168,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31196,1806,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,244,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31197,1806,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,205,NA,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31198,1806,Pacific lamprey,255,Not recorded,Natural,Not recorded,NA,110,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31199,1806,Sacramento pikeminnow,255,Not recorded,Natural,Not recorded,NA,74,1,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-02T10:00:22Z,2026-02-02T10:00:22Z
+12,31200,1807,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-02T10:00:22Z,2026-02-03T10:00:24Z
+12,31201,1807,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z
+12,31202,1807,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z
+12,31203,1807,Chinook salmon,255,Fall,Natural,Parr,31,NA,1,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z
+12,31204,1807,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z
+12,31205,1807,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z
+12,31206,1807,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z
+12,31207,1807,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z
+12,31208,1807,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z
+12,31209,1807,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z
+12,31210,1807,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z
+12,31211,1807,Chinook salmon,255,Fall,Natural,Not recorded,34,NA,1,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z
+12,31212,1807,Chinook salmon,255,Fall,Natural,Not recorded,34,NA,1,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z
+12,31213,1807,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z
+12,31214,1807,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z
+12,31215,1807,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-03T10:00:24Z,2026-02-03T10:00:24Z
+12,31217,1808,Chinook salmon,255,Fall,Natural,Fry,42,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:24Z,2026-02-03T10:00:54Z
+12,31218,1808,Chinook salmon,255,Fall,Natural,Fry,34,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31219,1808,Chinook salmon,255,Fall,Natural,Fry,32,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31220,1808,Chinook salmon,255,Fall,Natural,Fry,34,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31221,1808,Chinook salmon,255,Fall,Natural,Fry,36,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31222,1808,Chinook salmon,255,Fall,Natural,Fry,39,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31223,1808,Chinook salmon,255,Fall,Natural,Fry,34,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31224,1808,Chinook salmon,255,Fall,Natural,Fry,33,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31225,1808,Chinook salmon,255,Fall,Natural,Fry,34,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31226,1808,Chinook salmon,255,Fall,Natural,Fry,35,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31227,1808,Chinook salmon,255,Fall,Natural,Fry,37,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31228,1808,Chinook salmon,255,Fall,Natural,Fry,38,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31229,1808,Chinook salmon,255,Fall,Natural,Fry,34,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31230,1808,Chinook salmon,255,Fall,Natural,Fry,36,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31231,1808,Chinook salmon,255,Fall,Natural,Fry,37,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31232,1808,Chinook salmon,255,Fall,Natural,Fry,33,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31233,1808,Chinook salmon,255,Fall,Natural,Fry,41,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31234,1808,Chinook salmon,255,Fall,Natural,Fry,38,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31235,1808,Chinook salmon,255,Fall,Natural,Fry,39,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31236,1808,Chinook salmon,255,Fall,Natural,Fry,39,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31237,1808,Chinook salmon,255,Fall,Natural,Fry,34,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31238,1808,Chinook salmon,255,Fall,Natural,Fry,36,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31239,1808,Chinook salmon,255,Fall,Natural,Fry,37,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31240,1808,Chinook salmon,255,Fall,Natural,Fry,35,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31241,1808,Chinook salmon,255,Fall,Natural,Fry,38,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31242,1808,Chinook salmon,255,Fall,Natural,Fry,35,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31243,1808,Chinook salmon,255,Fall,Natural,Fry,35,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31244,1808,Chinook salmon,255,Fall,Natural,Fry,37,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31245,1808,Chinook salmon,255,Fall,Natural,Fry,35,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31246,1808,Chinook salmon,255,Fall,Natural,Fry,39,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31247,1808,Chinook salmon,255,Fall,Natural,Fry,38,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31248,1808,Chinook salmon,255,Fall,Natural,Fry,41,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31249,1808,Chinook salmon,255,Fall,Natural,Fry,39,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31250,1808,Chinook salmon,255,Fall,Natural,Fry,38,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31251,1808,Chinook salmon,255,Fall,Natural,Fry,36,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31252,1808,Chinook salmon,255,Fall,Natural,Fry,37,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31253,1808,Chinook salmon,255,Fall,Natural,Fry,35,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31254,1808,Chinook salmon,255,Fall,Natural,Fry,34,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31255,1808,Chinook salmon,255,Fall,Natural,Fry,36,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31256,1808,Chinook salmon,255,Fall,Natural,Fry,36,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31257,1808,Chinook salmon,255,Fall,Natural,Fry,34,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31258,1808,Chinook salmon,255,Fall,Natural,Fry,40,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31259,1808,Chinook salmon,255,Fall,Natural,Fry,38,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31260,1808,Chinook salmon,255,Fall,Natural,Fry,37,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31261,1808,Chinook salmon,255,Fall,Natural,Fry,33,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31262,1808,Chinook salmon,255,Fall,Natural,Fry,39,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31263,1808,Chinook salmon,255,Fall,Natural,Fry,36,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31264,1808,Chinook salmon,255,Fall,Natural,Not recorded,36,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31265,1808,Chinook salmon,255,Fall,Natural,Fry,35,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31266,1808,Chinook salmon,255,Fall,Natural,Fry,38,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31267,1808,Chinook salmon,255,Fall,Natural,Not recorded,NA,NA,63,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31268,1808,Chinook salmon,255,Fall,Natural,Not recorded,NA,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31269,1808,Steelhead / rainbow trout,255,Not recorded,Natural,Silvery parr,240,NA,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31270,1808,Mosquitofish,255,Not recorded,Natural,Not recorded,NA,28,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31271,1808,Unknown lamprey (Entosphenus or Lampetra),255,Not recorded,Natural,Not recorded,NA,110,1,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-03T10:00:54Z,2026-02-03T10:00:54Z
+12,31272,1809,Chinook salmon,255,Fall,Natural,Not recorded,NA,NA,1,2026-02-04T10:00:28Z,2026-02-04T10:00:28Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-02-03T10:00:54Z,2026-02-04T10:00:28Z
+12,31273,1809,Steelhead / rainbow trout,255,Not recorded,Natural,Not recorded,NA,NA,0,2026-02-04T10:00:28Z,2026-02-04T10:00:28Z,Unplanned restart,Lower Feather River RST,RL,NA,Yes,2026-02-04T10:00:28Z,2026-02-04T10:00:28Z
+12,31274,1810,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:28Z,2026-02-04T10:00:32Z
+12,31275,1810,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31276,1810,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31277,1810,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31278,1810,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31279,1810,Chinook salmon,255,Fall,Natural,Parr,45,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31280,1810,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31281,1810,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31282,1810,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31283,1810,Chinook salmon,255,Fall,Natural,Not recorded,36,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31284,1810,Chinook salmon,255,Fall,Natural,Not recorded,42,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31285,1810,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31286,1810,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31287,1810,Chinook salmon,255,Fall,Natural,Not recorded,35,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31288,1810,Chinook salmon,255,Fall,Natural,Not recorded,36,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31289,1810,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31290,1810,Chinook salmon,255,Fall,Natural,Not recorded,39,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31291,1810,Chinook salmon,255,Fall,Natural,Not recorded,36,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31292,1810,Chinook salmon,255,Fall,Natural,Not recorded,40,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31293,1810,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31294,1810,Chinook salmon,255,Fall,Natural,Not recorded,41,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31295,1810,Chinook salmon,255,Fall,Natural,Not recorded,34,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31296,1810,Chinook salmon,255,Fall,Natural,Not recorded,41,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31297,1810,Chinook salmon,255,Fall,Natural,Not recorded,34,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31298,1810,Chinook salmon,255,Fall,Natural,Not recorded,35,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31299,1810,Chinook salmon,255,Fall,Natural,Not recorded,36,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31300,1810,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31301,1810,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31302,1810,Chinook salmon,255,Fall,Natural,Not recorded,34,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31303,1810,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31304,1810,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31305,1810,Chinook salmon,255,Fall,Natural,Not recorded,40,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31306,1810,Chinook salmon,255,Fall,Natural,Not recorded,35,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31307,1810,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31308,1810,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31309,1810,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31310,1810,Chinook salmon,255,Fall,Natural,Not recorded,39,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31311,1810,Chinook salmon,255,Fall,Natural,Not recorded,40,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31312,1810,Chinook salmon,255,Fall,Natural,Not recorded,38,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31313,1810,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31314,1810,Chinook salmon,255,Fall,Natural,Not recorded,38,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31315,1810,Chinook salmon,255,Fall,Natural,Not recorded,36,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31316,1810,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31317,1810,Chinook salmon,255,Fall,Natural,Not recorded,35,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31318,1810,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31319,1810,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31320,1810,Chinook salmon,255,Fall,Natural,Not recorded,39,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31321,1810,Chinook salmon,255,Fall,Natural,Not recorded,36,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31322,1810,Chinook salmon,255,Fall,Natural,Not recorded,36,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31323,1810,Chinook salmon,255,Fall,Natural,Not recorded,34,NA,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31324,1810,Chinook salmon,255,Fall,Natural,Not recorded,NA,NA,127,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31325,1810,Unknown lamprey (Entosphenus or Lampetra),255,Not recorded,Natural,Ammocoete,NA,89,1,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-04T10:00:32Z,2026-02-04T10:00:32Z
+12,31326,1811,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-02-05T10:00:26Z,2026-02-05T10:00:26Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-04T10:00:32Z,2026-02-05T10:00:26Z
+12,31327,1811,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-05T10:00:26Z,2026-02-05T10:00:26Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-05T10:00:26Z,2026-02-05T10:00:26Z
+12,31328,1811,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-05T10:00:26Z,2026-02-05T10:00:26Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-05T10:00:26Z,2026-02-05T10:00:26Z
+12,31329,1811,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-05T10:00:26Z,2026-02-05T10:00:26Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-05T10:00:26Z,2026-02-05T10:00:26Z
+12,31330,1811,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-05T10:00:26Z,2026-02-05T10:00:26Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-05T10:00:26Z,2026-02-05T10:00:26Z
+12,31331,1811,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-05T10:00:26Z,2026-02-05T10:00:26Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-05T10:00:26Z,2026-02-05T10:00:26Z
+12,31333,1812,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:26Z,2026-02-05T10:00:47Z
+12,31334,1812,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31335,1812,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31336,1812,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31337,1812,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31338,1812,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31339,1812,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31340,1812,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31341,1812,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31342,1812,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31343,1812,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31344,1812,Chinook salmon,255,Fall,Natural,Fry,34,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31345,1812,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31346,1812,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31347,1812,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31348,1812,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31349,1812,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31350,1812,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31351,1812,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31352,1812,Chinook salmon,255,Fall,Natural,Parr,40,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31353,1812,Chinook salmon,255,Fall,Natural,Not recorded,36,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31354,1812,Chinook salmon,255,Fall,Natural,Not recorded,35,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31355,1812,Chinook salmon,255,Fall,Natural,Fry,34,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31356,1812,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31357,1812,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31358,1812,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31359,1812,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31360,1812,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31361,1812,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31362,1812,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31363,1812,Chinook salmon,255,Fall,Natural,Parr,49,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31364,1812,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31365,1812,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31366,1812,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31367,1812,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31368,1812,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31369,1812,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31370,1812,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31371,1812,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31372,1812,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31373,1812,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31374,1812,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31375,1812,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31376,1812,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31377,1812,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31378,1812,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31379,1812,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31380,1812,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31381,1812,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31382,1812,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31383,1812,Chinook salmon,255,Fall,Natural,Parr,NA,NA,8,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31384,1812,Chinook salmon,255,Winter,Natural,Parr,70,NA,1,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-05T10:00:47Z,2026-02-05T10:00:47Z
+12,31385,1813,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-06T09:45:17Z,2026-02-06T09:45:17Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-05T10:00:47Z,2026-02-06T09:45:17Z
+12,31386,1813,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-06T09:45:17Z,2026-02-06T09:45:17Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-06T09:45:17Z,2026-02-06T09:45:17Z
+12,31387,1813,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-06T09:45:17Z,2026-02-06T09:45:17Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-06T09:45:17Z,2026-02-06T09:45:17Z
+12,31388,1813,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-06T09:45:17Z,2026-02-06T09:45:17Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-06T09:45:17Z,2026-02-06T09:45:17Z
+12,31389,1813,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-06T09:45:17Z,2026-02-06T09:45:17Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-06T09:45:17Z,2026-02-06T09:45:17Z
+12,31390,1813,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-06T09:45:17Z,2026-02-06T09:45:17Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-06T09:45:17Z,2026-02-06T09:45:17Z
+12,31391,1813,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-06T09:45:17Z,2026-02-06T09:45:17Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-06T09:45:17Z,2026-02-06T09:45:17Z
+12,31392,1813,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-06T09:45:17Z,2026-02-06T09:45:17Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-06T09:45:17Z,2026-02-06T09:45:17Z
+12,31393,1813,Wakasagi / Japanese smelt,255,Not recorded,Natural,Not recorded,NA,45,1,2026-02-06T09:45:17Z,2026-02-06T09:45:17Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-06T09:45:17Z,2026-02-06T09:45:17Z
+12,31394,1814,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:17Z,2026-02-06T09:45:27Z
+12,31395,1814,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31396,1814,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31397,1814,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31398,1814,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31399,1814,Chinook salmon,255,Fall,Natural,Parr,47,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31400,1814,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31401,1814,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31402,1814,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31403,1814,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31404,1814,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31405,1814,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31406,1814,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31407,1814,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31408,1814,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31409,1814,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31410,1814,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31411,1814,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31412,1814,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31413,1814,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31414,1814,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31415,1814,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31416,1814,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31417,1814,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31418,1814,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31419,1814,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31420,1814,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31421,1814,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31422,1814,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31423,1814,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31424,1814,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31425,1814,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31426,1814,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31427,1814,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31428,1814,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31429,1814,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31430,1814,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31431,1814,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31432,1814,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31433,1814,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31434,1814,Chinook salmon,255,Fall,Natural,Parr,41,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31435,1814,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31436,1814,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31437,1814,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31438,1814,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31439,1814,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31440,1814,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31441,1814,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31442,1814,Chinook salmon,255,Fall,Natural,Parr,42,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31443,1814,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31444,1814,Chinook salmon,255,Fall,Natural,Not recorded,NA,NA,10,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31445,1814,Chinook salmon,255,Fall,Natural,Not recorded,NA,NA,3,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-06T09:45:27Z,2026-02-06T09:45:27Z
+12,31446,1815,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-06T09:45:27Z,2026-02-07T10:00:42Z
+12,31447,1815,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31448,1815,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31449,1815,Chinook salmon,255,Fall,Natural,Parr,43,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31450,1815,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31451,1815,Chinook salmon,255,Fall,Natural,Parr,40,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31452,1815,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31453,1815,Chinook salmon,255,Fall,Natural,Parr,49,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31454,1815,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31455,1815,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31456,1815,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31457,1815,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31458,1815,Chinook salmon,255,Fall,Natural,Parr,42,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31459,1815,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31460,1815,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31461,1815,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31462,1815,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31463,1815,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31464,1815,Chinook salmon,255,Fall,Natural,Parr,3,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31465,1815,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31466,1815,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31467,1815,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31468,1815,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31469,1815,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31470,1815,Chinook salmon,255,Fall,Natural,Parr,40,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31471,1815,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31472,1815,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31473,1815,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31474,1815,Chinook salmon,255,Fall,Natural,Not recorded,38,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31475,1815,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31476,1815,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31477,1815,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:42Z
+12,31478,1816,Chinook salmon,255,Fall,Natural,Not recorded,35,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:42Z,2026-02-07T10:00:57Z
+12,31479,1816,Chinook salmon,255,Fall,Natural,Not recorded,34,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31480,1816,Chinook salmon,255,Fall,Natural,Not recorded,39,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31481,1816,Chinook salmon,255,Fall,Natural,Not recorded,35,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31482,1816,Chinook salmon,255,Fall,Natural,Not recorded,42,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31483,1816,Chinook salmon,255,Fall,Natural,Not recorded,40,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31484,1816,Chinook salmon,255,Fall,Natural,Not recorded,35,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31485,1816,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31486,1816,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31487,1816,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31488,1816,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31489,1816,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31490,1816,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31491,1816,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31492,1816,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31493,1816,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31494,1816,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31495,1816,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31496,1816,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31497,1816,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31498,1816,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31499,1816,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31500,1816,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31501,1816,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31502,1816,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31503,1816,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31504,1816,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31505,1816,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31506,1816,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31507,1816,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31508,1816,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31509,1816,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31510,1816,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31511,1816,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31512,1816,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31513,1816,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31514,1816,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31515,1816,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31516,1816,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31517,1816,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31518,1816,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31519,1816,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31520,1816,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31521,1816,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31522,1816,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31523,1816,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31524,1816,Chinook salmon,255,Fall,Natural,Parr,42,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31525,1816,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31526,1816,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31527,1816,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31528,1816,Chinook salmon,255,Fall,Natural,Not recorded,NA,NA,78,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31529,1816,Chinook salmon,255,Spring,Natural,Parr,54,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31530,1816,Chinook salmon,255,Spring,Natural,Parr,62,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31531,1816,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,255,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31533,1816,Wakasagi / Japanese smelt,255,Not recorded,Natural,Not recorded,NA,NA,1,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-07T10:00:57Z,2026-02-07T10:00:57Z
+12,31534,1817,Chinook salmon,255,Fall,Natural,Not recorded,35,NA,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-07T10:00:57Z,2026-02-08T10:00:35Z
+12,31535,1817,Chinook salmon,255,Fall,Natural,Not recorded,38,NA,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z
+12,31536,1817,Chinook salmon,255,Fall,Natural,Parr,45,NA,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z
+12,31537,1817,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z
+12,31538,1817,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z
+12,31539,1817,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z
+12,31540,1817,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z
+12,31541,1817,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z
+12,31542,1817,Chinook salmon,255,Fall,Natural,Fry,32,NA,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z
+12,31543,1817,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z
+12,31544,1817,Chinook salmon,255,Fall,Natural,Fry,36,NA,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z
+12,31545,1817,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z
+12,31546,1817,Chinook salmon,255,Fall,Natural,Parr,43,NA,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z
+12,31547,1817,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z
+12,31548,1817,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z
+12,31549,1817,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z
+12,31550,1817,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z
+12,31551,1817,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z
+12,31552,1817,Chinook salmon,255,Fall,Natural,Not recorded,34,NA,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z
+12,31553,1817,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z
+12,31554,1817,Wakasagi / Japanese smelt,255,Not recorded,Natural,Not recorded,NA,92,1,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:35Z
+12,31555,1818,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:35Z,2026-02-08T10:00:33Z
+12,31556,1818,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31557,1818,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31558,1818,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31559,1818,Chinook salmon,255,Fall,Natural,Parr,48,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31560,1818,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31561,1818,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31562,1818,Chinook salmon,255,Fall,Natural,Parr,40,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31563,1818,Chinook salmon,255,Fall,Natural,Parr,47,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31564,1818,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31565,1818,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31566,1818,Chinook salmon,255,Fall,Natural,Parr,41,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31567,1818,Chinook salmon,255,Fall,Natural,Fry,35,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31568,1818,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31569,1818,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31570,1818,Chinook salmon,255,Fall,Natural,Fry,32,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31571,1818,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31572,1818,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31573,1818,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31574,1818,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31575,1818,Chinook salmon,255,Fall,Natural,Parr,44,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31576,1818,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31577,1818,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31578,1818,Chinook salmon,255,Fall,Natural,Not recorded,43,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31579,1818,Chinook salmon,255,Fall,Natural,Not recorded,39,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31580,1818,Chinook salmon,255,Fall,Natural,Not recorded,36,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31581,1818,Chinook salmon,255,Fall,Natural,Not recorded,35,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31582,1818,Chinook salmon,255,Fall,Natural,Not recorded,35,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31583,1818,Chinook salmon,255,Fall,Natural,Not recorded,38,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31584,1818,Chinook salmon,255,Fall,Natural,Not recorded,36,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31585,1818,Chinook salmon,255,Fall,Natural,Not recorded,36,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31586,1818,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31587,1818,Chinook salmon,255,Fall,Natural,Not recorded,33,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31588,1818,Chinook salmon,255,Fall,Natural,Not recorded,40,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31589,1818,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31590,1818,Chinook salmon,255,Fall,Natural,Not recorded,39,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31591,1818,Chinook salmon,255,Fall,Natural,Not recorded,38,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31592,1818,Chinook salmon,255,Fall,Natural,Not recorded,38,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31593,1818,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31594,1818,Chinook salmon,255,Fall,Natural,Not recorded,36,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31595,1818,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z,Unplanned restart,Lower Feather River RST,RR,NA,Yes,2026-02-08T10:00:33Z,2026-02-08T10:00:33Z
+12,31596,1819,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-08T10:00:33Z,2026-02-09T09:45:58Z
+12,31597,1819,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z
+12,31598,1819,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z
+12,31599,1819,Chinook salmon,255,Fall,Natural,Parr,51,NA,1,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z
+12,31600,1819,Chinook salmon,255,Fall,Natural,Parr,40,NA,1,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z
+12,31601,1819,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z
+12,31602,1819,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z
+12,31603,1819,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z
+12,31604,1819,Chinook salmon,255,Fall,Natural,Parr,40,NA,1,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z
+12,31605,1819,Chinook salmon,255,Fall,Natural,Parr,41,NA,1,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z
+12,31606,1819,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z
+12,31607,1819,Chinook salmon,255,Fall,Natural,Parr,40,NA,1,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z
+12,31608,1819,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z
+12,31609,1819,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z
+12,31610,1819,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z
+12,31611,1819,Chinook salmon,255,Fall,Natural,Parr,40,NA,1,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z
+12,31612,1819,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z
+12,31613,1819,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-09T09:45:58Z,2026-02-09T09:45:58Z
+12,31614,1820,Chinook salmon,255,Fall,Natural,Parr,41,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:58Z,2026-02-09T09:45:15Z
+12,31615,1820,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31616,1820,Chinook salmon,255,Fall,Natural,Parr,40,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31617,1820,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31618,1820,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31619,1820,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31620,1820,Chinook salmon,255,Fall,Natural,Parr,41,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31621,1820,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31622,1820,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31623,1820,Chinook salmon,255,Fall,Natural,Parr,40,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31624,1820,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31625,1820,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31626,1820,Chinook salmon,255,Fall,Natural,Parr,42,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31627,1820,Chinook salmon,255,Fall,Natural,Parr,50,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31628,1820,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31629,1820,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31630,1820,Chinook salmon,255,Fall,Natural,Parr,31,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31631,1820,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31632,1820,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31633,1820,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31634,1820,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31635,1820,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31636,1820,Chinook salmon,255,Fall,Natural,Parr,45,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31637,1820,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31638,1820,Chinook salmon,255,Fall,Natural,Parr,40,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31639,1820,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31640,1820,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31641,1820,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31642,1820,Chinook salmon,255,Fall,Natural,Parr,42,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31643,1820,Chinook salmon,255,Fall,Natural,Parr,41,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31644,1820,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31645,1820,Chinook salmon,255,Fall,Natural,Parr,51,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31646,1820,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31647,1820,Chinook salmon,255,Fall,Natural,Parr,40,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31648,1820,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31649,1820,Chinook salmon,255,Fall,Natural,Parr,39,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31650,1820,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31651,1820,Chinook salmon,255,Fall,Natural,Parr,45,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31652,1820,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31653,1820,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31654,1820,Chinook salmon,255,Fall,Natural,Parr,48,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31655,1820,Chinook salmon,255,Fall,Natural,Parr,42,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31656,1820,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31657,1820,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31658,1820,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31659,1820,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31660,1820,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31661,1820,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31662,1820,Chinook salmon,255,Fall,Natural,Parr,46,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31663,1820,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31664,1820,Chinook salmon,255,Spring,Natural,Parr,56,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31665,1820,Chinook salmon,255,Spring,Natural,Parr,55,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31666,1820,Chinook salmon,255,Spring,Natural,Parr,53,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31667,1820,Chinook salmon,255,Spring,Natural,Parr,52,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31668,1820,Steelhead / rainbow trout,255,Not recorded,Natural,Yearling,220,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31669,1820,Steelhead / rainbow trout,255,Not recorded,Natural,Yearling,223,NA,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31670,1820,Chinook salmon,255,Fall,Natural,Not recorded,NA,NA,37,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31671,1820,Chinook salmon,255,Fall,Natural,Not recorded,NA,NA,4,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31672,1820,Wakasagi / Japanese smelt,255,Not recorded,Natural,Not recorded,NA,62,1,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-09T09:45:15Z,2026-02-09T09:45:15Z
+12,31673,1821,Chinook salmon,255,Fall,Natural,Parr,42,NA,1,2026-02-10T10:00:12Z,2026-02-10T10:00:12Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-09T09:45:15Z,2026-02-10T10:00:12Z
+12,31674,1821,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-10T10:00:12Z,2026-02-10T10:00:12Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-10T10:00:12Z,2026-02-10T10:00:12Z
+12,31675,1821,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-02-10T10:00:12Z,2026-02-10T10:00:12Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-10T10:00:12Z,2026-02-10T10:00:12Z
+12,31676,1821,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-10T10:00:12Z,2026-02-10T10:00:12Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-10T10:00:12Z,2026-02-10T10:00:12Z
+12,31677,1821,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-10T10:00:12Z,2026-02-10T10:00:12Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-10T10:00:12Z,2026-02-10T10:00:12Z
+12,31678,1821,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-10T10:00:12Z,2026-02-10T10:00:12Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-10T10:00:12Z,2026-02-10T10:00:12Z
+12,31679,1821,Chinook salmon,255,Fall,Natural,Not recorded,38,NA,1,2026-02-10T10:00:12Z,2026-02-10T10:00:12Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-10T10:00:12Z,2026-02-10T10:00:12Z
+12,31680,1822,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,173,NA,1,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-10T10:00:12Z,2026-02-10T10:00:01Z
+12,31681,1822,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,190,NA,1,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z
+12,31682,1822,Steelhead / rainbow trout,255,Not recorded,Hatchery,Yearling,265,NA,1,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z
+12,31683,1822,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z
+12,31684,1822,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z
+12,31685,1822,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z
+12,31686,1822,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z
+12,31687,1822,Chinook salmon,255,Fall,Natural,Parr,42,NA,1,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z
+12,31688,1822,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z
+12,31689,1822,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z
+12,31690,1822,Chinook salmon,255,Fall,Natural,Not recorded,35,NA,1,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z
+12,31691,1822,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z
+12,31692,1822,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z
+12,31693,1822,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z
+12,31694,1822,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z
+12,31695,1822,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-10T10:00:01Z,2026-02-10T10:00:01Z
+12,31696,1823,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-11T10:00:58Z,2026-02-11T10:00:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-10T10:00:01Z,2026-02-11T10:00:58Z
+12,31697,1823,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-11T10:00:58Z,2026-02-11T10:00:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-11T10:00:58Z,2026-02-11T10:00:58Z
+12,31698,1823,Chinook salmon,255,Fall,Natural,Parr,38,NA,1,2026-02-11T10:00:58Z,2026-02-11T10:00:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-11T10:00:58Z,2026-02-11T10:00:58Z
+12,31699,1824,Chinook salmon,255,Fall,Natural,Not recorded,38,NA,1,2026-02-11T10:00:28Z,2026-02-11T10:00:28Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-11T10:00:58Z,2026-02-11T10:00:28Z
+12,31700,1824,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-11T10:00:28Z,2026-02-11T10:00:28Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-11T10:00:28Z,2026-02-11T10:00:28Z
+12,31701,1824,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-11T10:00:28Z,2026-02-11T10:00:28Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-11T10:00:28Z,2026-02-11T10:00:28Z
+12,31702,1824,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-11T10:00:28Z,2026-02-11T10:00:28Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-11T10:00:28Z,2026-02-11T10:00:28Z
+12,31703,1824,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-11T10:00:28Z,2026-02-11T10:00:28Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-11T10:00:28Z,2026-02-11T10:00:28Z
+12,31704,1824,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-02-11T10:00:28Z,2026-02-11T10:00:28Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-11T10:00:28Z,2026-02-11T10:00:28Z
+12,31705,1824,Chinook salmon,255,Fall,Natural,Parr,30,NA,1,2026-02-11T10:00:28Z,2026-02-11T10:00:28Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-11T10:00:28Z,2026-02-11T10:00:28Z
+12,31706,1824,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-11T10:00:28Z,2026-02-11T10:00:28Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-11T10:00:28Z,2026-02-11T10:00:28Z
+12,31707,1824,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-11T10:00:28Z,2026-02-11T10:00:28Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-11T10:00:28Z,2026-02-11T10:00:28Z
+12,31708,1825,Chinook salmon,255,Fall,Natural,Parr,40,NA,1,2026-02-12T10:30:24Z,2026-02-12T10:30:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-11T10:00:28Z,2026-02-12T10:30:24Z
+12,31709,1825,Chinook salmon,255,Fall,Natural,Parr,42,NA,1,2026-02-12T10:30:24Z,2026-02-12T10:30:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-12T10:30:24Z,2026-02-12T10:30:24Z
+12,31710,1825,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-12T10:30:24Z,2026-02-12T10:30:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-12T10:30:24Z,2026-02-12T10:30:24Z
+12,31711,1825,Chinook salmon,255,Fall,Natural,Not recorded,35,NA,1,2026-02-12T10:30:24Z,2026-02-12T10:30:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-12T10:30:24Z,2026-02-12T10:30:24Z
+12,31712,1825,Chinook salmon,255,Fall,Natural,Not recorded,35,NA,1,2026-02-12T10:30:24Z,2026-02-12T10:30:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-12T10:30:24Z,2026-02-12T10:30:24Z
+12,31713,1825,Steelhead / rainbow trout,255,Not recorded,Natural,Not recorded,228,NA,1,2026-02-12T10:30:24Z,2026-02-12T10:30:24Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-12T10:30:24Z,2026-02-12T10:30:24Z
+12,31715,1826,Chinook salmon,255,Fall,Natural,Parr,31,NA,1,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-12T10:30:24Z,2026-02-12T10:30:25Z
+12,31716,1826,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z
+12,31717,1826,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z
+12,31718,1826,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z
+12,31719,1826,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z
+12,31720,1826,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z
+12,31721,1826,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z
+12,31722,1826,Chinook salmon,255,Fall,Natural,Parr,45,NA,1,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z
+12,31723,1826,Chinook salmon,255,Fall,Natural,Parr,44,NA,1,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z
+12,31724,1826,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z
+12,31725,1826,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z
+12,31726,1826,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z
+12,31727,1826,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z
+12,31728,1826,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z
+12,31729,1826,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z
+12,31730,1826,Chinook salmon,255,Fall,Natural,Parr,33,NA,1,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z
+12,31731,1826,Chinook salmon,255,Spring,Natural,Parr,60,NA,1,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z
+12,31732,1826,Brown bullhead,255,Not recorded,Natural,Not recorded,NA,45,1,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-12T10:30:25Z,2026-02-12T10:30:25Z
+12,31733,1827,Chinook salmon,255,Fall,Natural,Parr,36,NA,1,2026-02-13T10:30:58Z,2026-02-13T10:30:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-12T10:30:25Z,2026-02-13T10:30:58Z
+12,31734,1827,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-13T10:30:58Z,2026-02-13T10:30:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-13T10:30:58Z,2026-02-13T10:30:58Z
+12,31735,1827,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-13T10:30:58Z,2026-02-13T10:30:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-13T10:30:58Z,2026-02-13T10:30:58Z
+12,31736,1827,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-13T10:30:58Z,2026-02-13T10:30:58Z,Continue trapping,Lower Feather River RST,RL,NA,Yes,2026-02-13T10:30:58Z,2026-02-13T10:30:58Z
+12,31737,1828,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-13T10:30:58Z,2026-02-13T10:30:15Z
+12,31738,1828,Chinook salmon,255,Fall,Natural,Parr,37,NA,1,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z
+12,31739,1828,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z
+12,31740,1828,Chinook salmon,255,Fall,Natural,Parr,34,NA,1,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z
+12,31741,1828,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z
+12,31742,1828,Chinook salmon,255,Fall,Natural,Parr,35,NA,1,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z
+12,31743,1828,Chinook salmon,255,Fall,Natural,Not recorded,47,NA,1,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z
+12,31744,1828,Chinook salmon,255,Fall,Natural,Not recorded,34,NA,1,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z
+12,31745,1828,Chinook salmon,255,Fall,Natural,Not recorded,37,NA,1,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z
+12,31746,1828,Sacramento sucker,255,Not recorded,Natural,Not recorded,NA,250,1,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z
+12,31747,1828,Wakasagi / Japanese smelt,255,Not recorded,Natural,Not recorded,NA,97,1,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z,Continue trapping,Lower Feather River RST,RR,NA,Yes,2026-02-13T10:30:15Z,2026-02-13T10:30:15Z
