@@ -190,7 +190,7 @@ clean_current_year_data <- function(trap_path, new_path) {
       ) |>
       select(-any_of("waterTempUnit"))
   }
-  cleaned_data <- if (grepl("current_year_lower_feather_catch.csv", new_path)) {
+  cleaned_data <- if (grepl("10yr_lower_feather_catch.csv", new_path)) {
     readr::read_csv(new_path, col_type = list(
       ProjectDescriptionID = col_double(),
       catchRawID = col_double(),
@@ -221,7 +221,7 @@ clean_current_year_data <- function(trap_path, new_path) {
       arrange(subSiteName, visitTime) |>
       left_join(trap_data |>
                   select(trapVisitID, trap_start_date, trap_end_date))
-  }else if(grepl("current_year_lower_feather_recapture.csv", new_path)) {
+  }else if(grepl("10yr_lower_feather_recapture.csv", new_path)) {
     readr::read_csv(new_path, col_type = list(
       ProjectDescriptionID = col_double(),
       catchRawID = col_double(),
@@ -251,7 +251,7 @@ clean_current_year_data <- function(trap_path, new_path) {
       select(ProjectDescriptionID, catchRawID, trapVisitID, commonName, releaseID, atCaptureRun, finalRun, fishOrigin, n,
              visitTime, visitTime2, visitType, siteName, subSiteName, markType, markColor, markPosition, trap_start_date,
              trap_end_date)
-  }else if(grepl("current_year_lower_feather_release.csv", new_path)) {
+  }else if(grepl("10yr_lower_feather_release.csv", new_path)) {
     readr::read_csv(new_path, , col_types = list(
       projectDescriptionID = col_double(),
       releaseID = col_double(),
@@ -270,7 +270,7 @@ clean_current_year_data <- function(trap_path, new_path) {
       mutate(releaseSubSite = ifelse(releaseSubSite == "N/A", NA, releaseSubSite),
              appliedMarkColor = ifelse(appliedMarkColor == "Not applicable (n/a)", NA, appliedMarkColor),
              appliedMarkPosition = str_replace(appliedMarkPosition, ",", ":"))
-  }else if(grepl("current_year_lower_feather_releasefish.csv", new_path)){
+  }else if(grepl("lower_feather_releasefish.csv", new_path)){
     readr::read_csv(new_path, col_types = list(
       projectDescriptionID = col_double(),
       releaseFishID = col_double(),
@@ -293,12 +293,12 @@ path <- sort(c("lower_feather_catch.csv",
 full_trap_path <- paste0("data/lower_feather.zip/", "lower_feather_trap.csv")
 full_new_data_path <- paste0("data/lower_feather.zip/", path)
 mapply(clean_zip_data, full_trap_path, full_new_data_path)
-current_year_path <- sort(c("data/current_year_lower_feather_catch.csv",
-                            "data/current_year_lower_feather_release.csv",
-                            "data/current_year_lower_feather_recapture.csv",
-                            "data/current_year_lower_feather_releasefish.csv"))
+current_year_path <- sort(c("data/10yr_lower_feather_catch.csv",
+                            "data/10yr_lower_feather_release.csv",
+                            "data/10yr_lower_feather_recapture.csv",
+                            "data/lower_feather_releasefish.csv"))
 # current_year_path <- current_year_path[file.exists(current_year_path)]
-current_year_trap_path <- "data/current_year_lower_feather_trap.csv"
+current_year_trap_path <- "data/10yr_lower_feather_trap.csv"
 mapply(clean_current_year_data, current_year_trap_path, current_year_path)
 
 
