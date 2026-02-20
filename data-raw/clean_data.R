@@ -1,10 +1,9 @@
 library(tidyverse)
 library(readxl)
-library(weathermetrics)
+# library(weathermetrics)
 
 # catch  #
 catch_raw <- read_xlsx(here::here("data-raw", "lower_feather_catch.xlsx")) |>
-  # select(-actualCount) |>
   mutate(trap_start_date = ymd_hms(case_when(visitType %in% c("Continue trapping", "Unplanned restart", "End trapping") ~ lag(visitTime2),
                                              T ~ visitTime)),
          trap_end_date = ymd_hms(case_when(visitType %in% c("Continue trapping", "Unplanned restart", "End trapping") ~ visitTime,
@@ -23,7 +22,7 @@ trap_raw <- read_xlsx(here::here("data-raw", "lower_feather_trap.xlsx")) |>
                                              T ~ visitTime)),
          trap_end_date = ymd_hms(case_when(visitType %in% c("Continue trapping", "Unplanned restart", "End trapping") ~ visitTime,
                                            T ~ visitTime2)),
-         waterTemp = ifelse(waterTempUnit == "°F", fahrenheit.to.celsius(waterTemp), waterTemp)) |> # doing the conversion "manually"
+         waterTemp = ifelse(waterTempUnit == "°F", (waterTemp - 32) * 5/9, waterTemp)) |> # doing the conversion "manually"
   select(-waterTempUnit) |> # compared to tisdale, this query did not have "lightPenetration
   glimpse()
 
@@ -46,12 +45,12 @@ release_raw <- read_xlsx(here::here("data-raw", "lower_feather_release.xlsx")) |
   # this will be added to metadata
   glimpse()
 
-write_csv(release_raw, here::here("data", "lower_feather_release.csv"))
+write_csv(release_raw, here::here("data", "lower_feather_release_raw.csv"))
 
 # releasefish
 release_fish_raw <- read_xlsx(here::here("data-raw", "lower_feather_releasefish.xlsx")) |> # note that all forklength values are empty
   glimpse()
-write_csv(release_fish_raw, here::here("data", "lower_feather_release_fish.csv"))
+write_csv(release_fish_raw, here::here("data", "lower_feather_release_fish_raw.csv"))
 
 # read in clean data to double check --------------------------------------
 catch <- read_csv(here::here("data", "lower_feather_catch.csv")) |> glimpse()
