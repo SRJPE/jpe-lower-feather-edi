@@ -297,7 +297,7 @@ current_year_path <- sort(c("data/current_year_lower_feather_catch.csv",
                             "data/current_year_lower_feather_release.csv",
                             "data/current_year_lower_feather_recapture.csv",
                             "data/current_year_lower_feather_releasefish.csv"))
-current_year_path <- current_year_path[file.exists(current_year_path)]
+# current_year_path <- current_year_path[file.exists(current_year_path)]
 current_year_trap_path <- "data/current_year_lower_feather_trap.csv"
 mapply(clean_current_year_data, current_year_trap_path, current_year_path)
 
