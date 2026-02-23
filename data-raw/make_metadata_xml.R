@@ -14,11 +14,11 @@ datatable_metadata <- dplyr::tibble(
   datatable_url = character()
 )
 
-file_list = c("10yr_lower_feather_catch.csv",
-              "10yr_lower_feather_recapture.csv",
-              "10yr_lower_feather_release.csv",
-              "lower_feather_releasefish.csv",
-              "10yr_lower_feather_trap.csv")
+file_list = c("current_year_lower_feather_catch.csv",
+              "current_year_lower_feather_recapture.csv",
+              "current_year_lower_feather_release.csv",
+              "current_year_lower_feather_releasefish.csv",
+              "current_year_lower_feather_trap.csv")
 metadata_info = c("data-raw/metadata/lower_feather_catch_metadata.xlsx",
                   "data-raw/metadata/lower_feather_recapture_metadata.xlsx",
                   "data-raw/metadata/lower_feather_release_metadata.xlsx",
@@ -30,11 +30,11 @@ description = c("Daily catch",
                 "Release fish summary",
                 "Daily trap operations")
 url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-lower-feather-edi/main/data/",
-             c("10yr_lower_feather_catch.csv",
-               "10yr_lower_feather_recapture.csv",
-               "10yr_lower_feather_release.csv",
-               "lower_feather_releasefish.csv",
-               "10yr_feather_trap.csv"))
+             c("current_year_lower_feather_catch.csv",
+               "current_year_lower_feather_recapture.csv",
+               "current_year_lower_feather_release.csv",
+               "current_year_lower_feather_releasefish.csv",
+               "current_year_lower_feather_trap.csv"))
 # datatable_metadata <-
 #   dplyr::tibble(filepath = c("data/lower_feather_catch.csv",
 #                              "data/lower_feather_trap.csv",
@@ -151,6 +151,7 @@ eml <- list(packageId = current_edi_number,
 )
 
 EML::write_eml(eml, paste0(current_edi_number, ".xml"))
+
 message("EML Metadata generated")
 print(paste0("Current EDI Number:", current_edi_number))
 EMLaide::update_edi_package(user_id = secret_edi_username,

@@ -156,6 +156,77 @@ clean_zip_data <- function(trap_path, new_path) {
 }
 
 clean_current_year_data <- function(trap_path, new_path) {
+  na_if_empty <- function(df, template) {
+    if (nrow(df) == 0) template else df
+  }
+  na_catch <- tibble::tibble(
+    ProjectDescriptionID = NA_real_,
+    catchRawID = NA_real_,
+    trapVisitID = NA_real_,
+    commonName = NA_character_,
+    releaseID = NA_real_,
+    atCaptureRun = NA_character_,
+    fishOrigin = NA_character_,
+    lifeStage = NA_character_,
+    forkLength = NA_real_,
+    totalLength = NA_real_,
+    n = NA_real_,
+    visitTime = as.POSIXct(NA),
+    visitTime2 = as.POSIXct(NA),
+    visitType = NA_character_,
+    siteName = NA_character_,
+    subSiteName = NA_character_,
+    finalRun = NA_character_,
+    actualCount = NA_character_,
+    trap_start_date = as.POSIXct(NA),
+    trap_end_date = as.POSIXct(NA)
+  )
+
+  na_recapture <- tibble::tibble(
+    ProjectDescriptionID = NA_real_,
+    catchRawID = NA_real_,
+    trapVisitID = NA_real_,
+    commonName = NA_character_,
+    releaseID = NA_real_,
+    atCaptureRun = NA_character_,
+    finalRun = NA_character_,
+    fishOrigin = NA_character_,
+    n = NA_real_,
+    visitTime = as.POSIXct(NA),
+    visitTime2 = as.POSIXct(NA),
+    visitType = NA_character_,
+    siteName = NA_character_,
+    subSiteName = NA_character_,
+    markType = NA_character_,
+    markColor = NA_character_,
+    markPosition = NA_character_,
+    trap_start_date = as.POSIXct(NA),
+    trap_end_date = as.POSIXct(NA)
+  )
+
+  na_release <- tibble::tibble(
+    projectDescriptionID = NA_real_,
+    releaseID = NA_real_,
+    releaseTime = as.POSIXct(NA),
+    commonName = NA_character_,
+    markedRun = NA_character_,
+    markedFishOrigin = NA_character_,
+    releaseSite = NA_character_,
+    releaseSubSite = NA_character_,
+    nReleased = NA_real_,
+    testDays = NA_real_,
+    appliedMarkType = NA_character_,
+    appliedMarkColor = NA_character_,
+    appliedMarkPosition = NA_character_
+  )
+
+  na_releasefish <- tibble::tibble(
+    projectDescriptionID = NA_real_,
+    releaseFishID = NA_character_,
+    releaseID = NA_character_,
+    forkLength = NA_real_
+  )
+
   trap_data <- readr::read_csv(trap_path, col_type = list(
     projectDescriptionID = col_double(),
     trapVisitID = col_double(),
@@ -190,8 +261,8 @@ clean_current_year_data <- function(trap_path, new_path) {
       ) |>
       select(-any_of("waterTempUnit"))
   }
-  cleaned_data <- if (grepl("10yr_lower_feather_catch.csv", new_path)) {
-    readr::read_csv(new_path, col_type = list(
+  cleaned_data <- if (grepl("current_year_lower_feather_catch.csv", new_path)) {
+    raw_catch <- readr::read_csv(new_path, col_type = list(
       ProjectDescriptionID = col_double(),
       catchRawID = col_double(),
       trapVisitID = col_double(),
@@ -211,7 +282,10 @@ clean_current_year_data <- function(trap_path, new_path) {
       atCaptureRun = col_character(),
       finalRun = col_character(),
       actualCount=col_character()
-    )) |>
+    ))
+
+    cleaned_data <- na_if_empty(raw_catch, na_catch)
+    cleaned_data |>
       mutate(trap_start_date = ymd_hms(case_when(visitType %in% c("Continue trapping", "Unplanned restart", "End trapping") ~ lag(visitTime2),
                                                  T ~ visitTime)),
              trap_end_date = ymd_hms(case_when(visitType %in% c("Continue trapping", "Unplanned restart", "End trapping") ~ visitTime,
@@ -221,8 +295,8 @@ clean_current_year_data <- function(trap_path, new_path) {
       arrange(subSiteName, visitTime) |>
       left_join(trap_data |>
                   select(trapVisitID, trap_start_date, trap_end_date))
-  }else if(grepl("10yr_lower_feather_recapture.csv", new_path)) {
-    readr::read_csv(new_path, col_type = list(
+  }else if(grepl("current_year_lower_feather_recapture.csv", new_path)) {
+    raw_recapture <- readr::read_csv(new_path, col_type = list(
       ProjectDescriptionID = col_double(),
       catchRawID = col_double(),
       trapVisitID = col_double(),
@@ -240,7 +314,9 @@ clean_current_year_data <- function(trap_path, new_path) {
       markType = col_character(),
       markColor = col_character(),
       markPosition = col_character()
-    )) |>
+    ))
+    cleaned_data <- na_if_empty(raw_recapture, na_recapture)
+    cleaned_data |>
       mutate(trap_start_date = ymd_hms(case_when(visitType %in% c("Continue trapping", "Unplanned restart", "End trapping") ~ lag(visitTime2),
                                                  T ~ visitTime)),
              trap_end_date = ymd_hms(case_when(visitType %in% c("Continue trapping", "Unplanned restart", "End trapping") ~ visitTime,
@@ -251,8 +327,8 @@ clean_current_year_data <- function(trap_path, new_path) {
       select(ProjectDescriptionID, catchRawID, trapVisitID, commonName, releaseID, atCaptureRun, finalRun, fishOrigin, n,
              visitTime, visitTime2, visitType, siteName, subSiteName, markType, markColor, markPosition, trap_start_date,
              trap_end_date)
-  }else if(grepl("10yr_lower_feather_release.csv", new_path)) {
-    readr::read_csv(new_path, , col_types = list(
+  }else if(grepl("current_year_lower_feather_release.csv", new_path)) {
+    raw_release <- readr::read_csv(new_path, , col_types = list(
       projectDescriptionID = col_double(),
       releaseID = col_double(),
       releaseTime = col_datetime(format = ""),
@@ -266,17 +342,23 @@ clean_current_year_data <- function(trap_path, new_path) {
       appliedMarkType = col_character(),
       appliedMarkColor = col_character(),
       appliedMarkPosition = col_character()
-    )) |>
+    ))
+    cleaned_data <- na_if_empty(raw_release, na_release)
+    cleaned_data |>
       mutate(releaseSubSite = ifelse(releaseSubSite == "N/A", NA, releaseSubSite),
              appliedMarkColor = ifelse(appliedMarkColor == "Not applicable (n/a)", NA, appliedMarkColor),
              appliedMarkPosition = str_replace(appliedMarkPosition, ",", ":"))
-  }else if(grepl("lower_feather_releasefish.csv", new_path)){
-    readr::read_csv(new_path, col_types = list(
+
+  }else if(grepl("current_year_lower_feather_releasefish.csv", new_path)){
+    raw_releasefish <- readr::read_csv(new_path, col_types = list(
       projectDescriptionID = col_double(),
       releaseFishID = col_double(),
       releaseID = col_double(),
       forkLength = col_double()
-    )) |>
+    ))
+    cleaned_data <- na_if_empty(raw_releasefish, na_releasefish)
+
+    cleaned_data|>
       mutate(releaseFishID = as.character(releaseFishID),
              releaseID = as.character(releaseID))
   }
@@ -293,12 +375,12 @@ path <- sort(c("lower_feather_catch.csv",
 full_trap_path <- paste0("data/lower_feather.zip/", "lower_feather_trap.csv")
 full_new_data_path <- paste0("data/lower_feather.zip/", path)
 mapply(clean_zip_data, full_trap_path, full_new_data_path)
-current_year_path <- sort(c("data/10yr_lower_feather_catch.csv",
-                            "data/10yr_lower_feather_release.csv",
-                            "data/10yr_lower_feather_recapture.csv",
-                            "data/lower_feather_releasefish.csv"))
+current_year_path <- sort(c("data/current_year_lower_feather_catch.csv",
+                            "data/current_year_lower_feather_release.csv",
+                            "data/current_year_lower_feather_recapture.csv",
+                            "data/current_year_lower_feather_releasefish.csv"))
 # current_year_path <- current_year_path[file.exists(current_year_path)]
-current_year_trap_path <- "data/10yr_lower_feather_trap.csv"
+current_year_trap_path <- "data/current_year_lower_feather_trap.csv"
 mapply(clean_current_year_data, current_year_trap_path, current_year_path)
 
 
