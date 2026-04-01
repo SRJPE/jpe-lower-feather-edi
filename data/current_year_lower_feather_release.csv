@@ -1,2 +1,2 @@
 projectDescriptionID,releaseID,commonName,markedRun,markedFishOrigin,releaseSite,releaseSubSite,nReleased,releaseTime,testDays,appliedMarkType,appliedMarkColor,appliedMarkPosition,includeAnalysis
-12,288,Chinook salmon,Fall,Natural,Lower Feather River Release Site,NA,1764,2026-01-09T11:28:11Z,7,Pigment / dye,Brown,Whole body,Yes
+12,288,Chinook salmon,Fall,Natural,Lower Feather River Release Site,,1764,2026-01-09T11:28:11Z,7,Pigment / dye,Brown,Whole body,Yes
